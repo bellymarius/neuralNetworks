@@ -5,7 +5,7 @@ Ce projet est une implémentation des réseaux de neurones artificiels en Python
 #Description
 
 neural_network.py contient la classe NeuralNetwork qui représente un réseau de neurones
-Cette classe contient nottament les méthodes train, test et predict.
+Cette classe contient notamment les méthodes train, test et predict.
 
 train.py est un script pour entraîner, tester puis sauvegarder un réseau de neurones.
 Il est possible de faire varier plusieurs paramètres, comme le taux d'apprentissage (ligne 27),
